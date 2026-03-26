@@ -1,4 +1,5 @@
 # vLLM 实时监控看板
+<img width="1371" height="850" alt="image" src="https://github.com/user-attachments/assets/aa8825c5-be9d-4957-b037-0338958849bd" />
 
 基于 vLLM `/metrics` 接口的实时监控 Dashboard，支持多 GPU 展示、Token 吞吐量趋势、性能指标追踪。
 

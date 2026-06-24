@@ -5,6 +5,8 @@
 ## 🛠️ 项目列表
 
 ### 1. [vLLM-Dashboard](./vLLM-Dashboard)
+![Uploading image.png…]()
+
 **功能：** 基于 Docker 的 vLLM 实时监控面板。
 - **核心指标：** 实时监控显存占用、Token 吞吐量（Generation/Prompt）、请求队列状态。
 - **适用场景：** 监控本地多卡环境（如 RTX 6000 Ada / 5090）下的 vLLM 服务稳定性。

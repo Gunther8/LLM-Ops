@@ -5,7 +5,8 @@
 ## 🛠️ 项目列表
 
 ### 1. [vLLM-Dashboard](./vLLM-Dashboard)
-![Uploading image.png…]()
+<img width="1371" height="850" alt="image" src="https://github.com/user-attachments/assets/d4e1dce6-3917-41b0-92fa-0efc4636bb86" />
+
 
 **功能：** 基于 Docker 的 vLLM 实时监控面板。
 - **核心指标：** 实时监控显存占用、Token 吞吐量（Generation/Prompt）、请求队列状态。
